@@ -1,3 +1,3 @@
 # murty.email
 
-Redirect to my main website at [murty.au](https://murty.au) ([brendanmurty/murty-site](https://github.com/brendanmurty/murty-site) on GitHub).
+Redirect to my main website at [murty.au](https://murty.au) ([brendanmurty/site](https://github.com/brendanmurty/site) on GitHub).
